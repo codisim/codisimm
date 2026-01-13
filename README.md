@@ -1,59 +1,52 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24292e,100:0D1117&height=200&section=header&text=Hi%20I'm%20Waliullah&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=MD%20Waliullah&fontSize=50&animation=fadeIn" width="100%" />
 
-  <h3>🚀 Jr. Software Developer | Aspiring Go Backend Engineer</h3>
+  <h3>🚀 Aspiring Go Backend Developer | Problem Solver</h3>
 
-  <p align="center">
-    <a href="https://linkedin.com/in/engwaliullah"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="mailto:waliullah9099@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-    <a href="https://twitter.com/your_handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <p>
+    <a href="https://linkedin.com/in/engwaliullah"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+    <a href="https://github.com/tswaliullah"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
+    <a href="mailto:waliullah9099@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
   </p>
 </div>
 
----
-
 ### 👨‍💻 About Me
-
-I am a passionate Backend Developer transitioning my expertise from **TypeScript/Node.js** to building high-performance systems with **Go (Golang)**. I thrive on solving complex architectural problems and building scalable APIs.
-
-* 🔭 **Current Focus:** Deep diving into Microservices and Concurrent Programming in Go.
-* ⚡ **Goal:** Seeking a Backend Internship to contribute to robust, real-world engineering projects.
-* 🌱 **Learning:** Distributed Systems, Kubernetes, and Advanced SQL optimization.
+I am a backend-focused developer building scalable systems with **Go** and **Node.js**. Beyond development, I am an active competitive programmer, constantly refining my logic through algorithmic challenges.
 
 ---
 
-### 🛠️ My Tech Stack
+### 🛠️ Tech Stack & Tools
+**Languages & Backend:** <img src="https://skillicons.dev/icons?i=go,cpp,c,ts,js,nodejs,express,postgres,mongodb&perline=12" height="35" />
 
-**Languages & Backend**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=go,ts,js,nodejs,express,prisma,postgres,mongodb" />
-</p>
-
-**Frontend & Tools**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,docker,git,github,postman,vscode" />
-</p>
+**Frontend & Dev Tools:** <img src="https://skillicons.dev/icons?i=react,next,prisma,docker,git,github,postman,vscode&perline=12" height="35" />
 
 ---
 
-### 📊 GitHub Activity
+### 🧩 Problem Solving
+I enjoy tackling complex algorithms and data structure problems:
+* **Languages:** C, C++, Go
+* **Platforms:**
+    * [<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black">](https://leetcode.com/u/your_leetcode_username/)
+    * [<img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat-square&logo=Codeforces&logoColor=white">](https://codeforces.com/profile/your_codeforces_username)
 
+---
+
+### 📊 GitHub Activity & Contributions
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tswaliullah&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tswaliullah&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tswaliullah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tswaliullah&theme=tokyonight&hide_border=true&layout=compact" height="150" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tswaliullah&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tswaliullah&theme=tokyonight&hide_border=true" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tswaliullah&theme=tokyonight" width="100%" />
 </p>
 
 ---
 
-### ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-</p>
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=tswaliullah&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=tswaliullah&label=Profile%20Views&color=blue&style=flat-square" />
 </div>
