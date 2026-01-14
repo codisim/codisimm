@@ -1,7 +1,8 @@
 <div align="center">
+  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24292e,100:0D1117&height=200&section=header&text=Hi%20I'm%20Waliullah&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 
-  <h3>🚀 Software Engineer | Backend Developer | Problem Solver</h3>
+  <h3> Software Developer | Backend Developer | Problem Solver </h3>
 
   <p align="center">
     <a href="https://linkedin.com/in/engwaliullah"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -32,10 +33,23 @@ I enjoy tackling complex algorithms and data structure problems:
 ---
 
 ### 📊 GitHub Activity & Contributions
+
+<!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=codisim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codisim&theme=tokyonight&hide_border=true&layout=compact" height="150" />
 </div>
+-->
+
+   <img width="845"  src="https://nirzak-streak-stats.vercel.app?user=codisim&hide_border=true&border_radius=5&card_width=800&theme=radical">
+  <img   width="845" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codisim&theme=radical" />
+  
+ <p > 
+  <img height="190"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=codisim&layout=compact&theme=radical&hide_border=true"/>
+  <img height="190"   src="https://github-readme-stats.vercel.app/api?username=codisim&show_icons=true&count_private=true&theme=radical&hide_border=true"/>
+<!--  </p> -->
+  <img  width="845" src="https://github-profile-trophy.vercel.app/?username=codisim&theme=juicyfresh&no-bg=true&hide_border=true" />
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=codisim&theme=tokyonight&hide_border=true" height="150" />
