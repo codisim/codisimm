@@ -1,66 +1,69 @@
 <div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24292e,100:0D1117&height=200&section=header&text=Hi%20I'm%20Waliullah&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:24292e,100:0D1117&height=200&section=header&text=Hi%20I'm%20Waliullah&fontSize=70&animation=fadeIn&fontAlignY=35" 
+    width="100%" 
+  />
 
-  <h3> Software Developer | Backend Developer | Problem Solver </h3>
+  <h3>Software Developer | Backend Developer | Problem Solver</h3>
 
-  <p align="center">
-    <a href="https://linkedin.com/in/engwaliullah"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="https://github.com/codisim"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
-    <a href="mailto:waliullah9099@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <p>
+    <a href="https://linkedin.com/in/engwaliullah">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://github.com/codisim">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <a href="mailto:waliullah9099@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
   </p>
 </div>
 
+---
+
 ### 👨‍💻 About Me
-I am a backend-focused developer building scalable systems with **Go** and **Node.js**. Beyond development, I am an active competitive programmer, constantly refining my logic through algorithmic challenges.
+Backend-focused developer building scalable systems using **Go** and **Node.js**.  
+I actively practice **competitive programming**, strengthening my problem-solving skills through algorithms and data structures.
 
 ---
 
-### 🛠️ Tech Stack & Tools
-**Languages & Backend:** <img src="https://skillicons.dev/icons?i=go,cpp,c,ts,js,nodejs,express,postgres,mongodb&perline=12" height="35" />
+### 🛠️ Tech Stack
+**Backend & Languages**  
+<img src="https://skillicons.dev/icons?i=go,c,cpp,ts,js,nodejs,express,postgres,mongodb&perline=10" height="40" />
 
-**Frontend & Dev Tools:** <img src="https://skillicons.dev/icons?i=react,next,prisma,docker,git,github,postman,vscode&perline=12" height="35" />
+**Frontend & Tools**  
+<img src="https://skillicons.dev/icons?i=react,next,prisma,docker,git,github,postman,vscode&perline=10" height="40" />
 
 ---
 
 ### 🧩 Problem Solving
-I enjoy tackling complex algorithms and data structure problems:
-* **Languages:** C, C++, Go
-* **Platforms:**
-    * [<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black">](https://leetcode.com/u/your_leetcode_username/)
-    * [<img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat-square&logo=Codeforces&logoColor=white">](https://codeforces.com/profile/your_codeforces_username)
+- **Languages:** C, C++, Go, JavaScript, TypeScript  
+- **Platforms:** [LeetCode](https://leetcode.com/u/your_leetcode_username/) • [Codeforces](https://codeforces.com/profile/your_codeforces_username)
 
 ---
 
-### 📊 GitHub Activity & Contributions
+### 📊 GitHub Stats
 
-<!--
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codisim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codisim&theme=tokyonight&hide_border=true&layout=compact" height="150" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=codisim&show_icons=true&theme=tokyonight&hide_border=true" 
+    height="160" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=codisim&layout=compact&theme=tokyonight&hide_border=true" 
+    height="160" 
+  />
 </div>
--->
 
-   <img width="845"  src="https://nirzak-streak-stats.vercel.app?user=codisim&hide_border=true&border_radius=5&card_width=800&theme=tokyonight">
-  <!-- <img   width="845" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codisim&theme=tokyonight" /> -->
-  
- <p > 
-  <img height="190"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=codisim&layout=compact&theme=tokyonight&hide_border=true"/>
-  <img height="190"   src="https://github-readme-stats.vercel.app/api?username=codisim&show_icons=true&count_private=true&theme=tokyonight&hide_border=true"/>
-<!--  </p> -->
-  <img  width="845" src="https://github-profile-trophy.vercel.app/?username=codisim&theme=juicyfresh&no-bg=true&hide_border=true" />
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codisim&theme=tokyonight&hide_border=true" height="150" />
-</p>
-
-<!-- <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codisim&theme=tokyonight" width="100%" />
-</p> -->
+<div align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=codisim&theme=tokyonight&hide_border=true" 
+    height="160" 
+  />
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=codisim&label=Profile%20Views&color=tokyonight&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=codisim&label=Profile%20Views&color=0A66C2&style=flat-square" />
 </div>
