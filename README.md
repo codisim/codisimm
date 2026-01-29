@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
   <img 
     src="https://capsule-render.vercel.app/api?type=waving&color=0:24292e,100:0D1117&height=200&section=header&text=Hi%20I'm%20Waliullah&fontSize=70&animation=fadeIn&fontAlignY=35" 
     width="100%" 
@@ -66,4 +66,4 @@ I actively practice **competitive programming**, strengthening my problem-solvin
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=codisim&label=Profile%20Views&color=0A66C2&style=flat-square" />
-</div>
+</div> -->
